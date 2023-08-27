@@ -26,5 +26,5 @@ var name9 = ["Laura"]; {
 console.log("Hello" + name9)
 }
 var name10 = ["Jim"]; {
-console.log("Good Bye" + name1
+console.log("Good Bye" + name10)
 }
