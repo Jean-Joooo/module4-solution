@@ -1,4 +1,4 @@
-Coursera John Hopkins JavaScript module-4 Greetings Challenge : https://jean-joooo.github.io/module4-solution-HTML-CSS-and-Js-Web-Dev-Coursera-Johns-Hopkins-Public/ -------> and check the console
+Coursera John Hopkins JavaScript module-4 Greetings Challenge : https://jean-joooo.github.io/module4-solution-HTML-CSS-and-Js-Web-Dev-Coursera-Johns-Hopkins/ -------> and check the console
 
 In this JavaScript programming exercise, I delved into practicing fundamental concepts. The task involved looping over an array of names, utilizing two externally provided libraries to print greetings to the browser console.
 
